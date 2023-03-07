@@ -50,12 +50,7 @@
 			<scope>provided</scope>
 		</dependency>
 		
-		<!-- sitemesh -->
-		<dependency>
-			<groupId>opensymphony</groupId>
-			<artifactId>sitemesh</artifactId>
-			<version>2.4.1</version>
-		</dependency>
+		
 
 		<!-- jstl -->
 		<dependency>
